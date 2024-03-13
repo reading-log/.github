@@ -18,7 +18,7 @@
 | 담당 업무 | 담당 업무 | 담당 업무 | 담당 업무 | 담당 업무 |
 
 
-## ✨ 기술 스택
+## ✨ 프로젝트 기술 스택
 ### 백엔드
 <div>
   <img src="https://img.shields.io/badge/Java 17-FF9E0F?style=for-the-badge&logo=Java&logoColor=white">
