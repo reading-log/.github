@@ -14,7 +14,7 @@
 | 김동민 (BE, 팀장) | 전두이 (BE) | 오민아 (UI/UX) | 상미 (FE)| 도은 (FE) |
 | :---: | :---: | :---: | :---: | :---: |
 | <img alt="김동민" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/020fb74d-6711-48e8-aa51-10b5774b8209" height="180" width="180"> | <img alt="전두이" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/8768e032-d4c0-4e9e-9299-02883018b057" height="180" width="180"> | <img alt="오민아" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/71a51dd2-e140-4323-ba08-86cdabbf7ff8" height="180" width="180"> | <img alt="도은" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/47922fd5-410e-4ba8-a9da-4737393d8640" height="180" width="180"> | <img alt="상미" src="https://github.com/TRIP-Side-Project/.github/assets/110151638/858b28a5-ee93-486c-a13f-1d70abdffab5" height="180" width="180"> |
-| 깃허브 링크 | 깃허브 링크  | 깃허브 링크  | 깃허브 링크 | 깃허브 링크 |
+| [don9m1n](https://github.com/don9m1n) | [enjoy89](https://github.com/enjoy89)  | [Maencoli](https://github.com/Maencoli) | [nemobim](https://github.com/nemobim) | [sangmee123](https://github.com/sangmee123) |
 | 담당 업무 | 담당 업무 | 담당 업무 | 담당 업무 | 담당 업무 |
 
 
